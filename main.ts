@@ -1,0 +1,7 @@
+tiles.setCurrentTilemap(tilemap`level1`)
+mp.setPlayerSprite(mp.playerSelector(mp.PlayerNumber.One), sprites.create(assets.image`princess 1`, SpriteKind.Food))
+mp.setPlayerSprite(mp.playerSelector(mp.PlayerNumber.Two), sprites.create(assets.image`cat 2`, SpriteKind.Food))
+mp.setPlayerSprite(mp.playerSelector(mp.PlayerNumber.Three), sprites.create(assets.image`wich 3`, SpriteKind.Food))
+mp.setPlayerSprite(mp.playerSelector(mp.PlayerNumber.Four), sprites.create(assets.image`doggy 4`, SpriteKind.Food))
+let mySprite = sprites.create(assets.image`enemy`, SpriteKind.Enemy)
+mp.moveWithButtons(mp.playerSelector(mp.PlayerNumber.One))

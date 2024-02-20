@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAA8A8AAAAA8P//+wAAAPA/s7vr7gAAvzOzu+/0D/A+4//+/7wPX+Szv0G/3fFPRTP+T969/VRF4+5E3t2xVEXj7kTevb1PRTP+T97d8V/ks79Bv7398D7j//7/vA8AvzOzu+/0DwDwP7O76+4AAADw///7AAAAAAAA8A8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princess 1"
+    },
+    "image2": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cat 2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAzAAAAAAAAMBE//8ARAAAwCTy/w9LAABMIiL/D/wMAMxEIhT0K/vALEIk/0Qi8kwiIiRORCvyLCIiJE5EK/LMLEIk/0Qi8gDMRCIU9Cv7AMwiIv9P/wwAwCTy/09LAADARPz/AEQAAADMAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wich 3"
+    },
+    "image4": {
+        "data": "hwQQAA4AAAAARA4AAAAAAEBV5QAAAAAAVFXk/g8AAABURVRV9P//AFRFVV9lVPUA4FVVVWVVDwAAXlVFb1UPAABeVUVvVf8A4FVVVWVV9QBURVVfZUUPAFRFVFVGVQ8AVFXk/k9U9QBAVeUA8PT/AABEDgBf9QAAAAAA8FUPAAAAAADw/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "doggy 4"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAwPwPAAAAAACMqvoAzMwAwKqMqs8YgQyMqviqjBoRyKyqiKosGhHBrKqIqqwSEcGsqviKrKoRwayqjMqqihjBjKqqqvqMiMHAqqqqyM+IygBsqorPiIjIAID4/6yKiMgAAAAArIqIzAAAAACsOswMAAAAAMDKAAAAAAAAAMwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
